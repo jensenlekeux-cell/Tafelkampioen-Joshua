@@ -1,0 +1,6 @@
+{
+  "name": "TafelKampioen",
+  "description": "Interactief en vrolijk leerspel om de tafels van vermenigvuldiging uit het hoofd te leren met verschillende moeilijkheidsgraden, puntensysteem, diploma's en prestaties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
